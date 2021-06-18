@@ -17,6 +17,11 @@ public class Prueba1A {
      */
     public static void main(String[] args) {
         System.out.println("Hola a todos");
+System.out.println("Hola a todos");
+System.out.println("Hola a todos");
+System.out.println("Hola a todos");
+System.out.println("Hola a todos");
+
         System.out.println("Adiós");
         int x=1;
         int y=2;
